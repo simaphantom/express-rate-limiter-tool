@@ -1,0 +1,20 @@
+{
+  "name": "express-rate-limiter-tool",
+  "version": "0.0.3",
+  "description": "A simple rate limiting middleware for Express applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "commander": "^12.0.0",
+    "dotenv": "^16.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simaphantom/express-rate-limiter-tool"
+  },
+  "author": "",
+  "license": "MIT"
+}
